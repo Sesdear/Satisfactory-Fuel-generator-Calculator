@@ -1,0 +1,10 @@
+{
+  "fuel_per_min": 12,
+  "MW":150,
+  "fluid_per_minute_with_plus": 6,
+  "Computers": 5,
+  "Heavy_Modular_Frame": 10,
+  "Rotors": 15,
+  "Rubber": 50,
+  "Quickwire": 50
+}
